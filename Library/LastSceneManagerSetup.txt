@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Phase 01/pluto.unity
+  isLoaded: 1
+  isActive: 1
